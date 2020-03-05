@@ -1,0 +1,306 @@
+{
+  "annotations": {
+    "HA": {
+      "end": 1701,
+      "start": 0,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 1701,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "CHI",
+          "#A18362"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "CHI/Beijing",
+          "#FF6347"
+        ],
+        [
+          "CHI/Chengdu",
+          "#4E847C"
+        ],
+        [
+          "CHI/FuZhou",
+          "#008080"
+        ],
+        [
+          "CHI/Guangdong",
+          "#00008B"
+        ],
+        [
+          "CHI/Guangzhou",
+          "#00008B"
+        ],
+        [
+          "CHI/Hangzhou",
+          "#008080"
+        ],
+        [
+          "CHI/Hubei",
+          "#00008B"
+        ],
+        [
+          "CHI/Inner_Mongolia",
+          "#FF6347"
+        ],
+        [
+          "CHI/Jiangsu",
+          "#008080"
+        ],
+        [
+          "CHI/Jiangyin",
+          "#008080"
+        ],
+        [
+          "CHI/Liaoning",
+          "#006400"
+        ],
+        [
+          "CHI/Lishui",
+          "#008080"
+        ],
+        [
+          "CHI/Nanchang",
+          "#008080"
+        ],
+        [
+          "CHI/Nanjing",
+          "#008080"
+        ],
+        [
+          "CHI/Qingdao",
+          "#008080"
+        ],
+        [
+          "CHI/Qingfeng",
+          "#00008B"
+        ],
+        [
+          "CHI/Ruyang",
+          "#00008B"
+        ],
+        [
+          "CHI/Shangdong",
+          "#008080"
+        ],
+        [
+          "CHI/Shanghai",
+          "#008080"
+        ],
+        [
+          "CHI/Shenzen",
+          "#00008B"
+        ],
+        [
+          "CHI/Sichuan",
+          "#4E847C"
+        ],
+        [
+          "CHI/Taizhou",
+          "#008080"
+        ],
+        [
+          "CHI/Tianjinjinnan",
+          "#FF6347"
+        ],
+        [
+          "CHI/Tianjintanggu",
+          "#FF6347"
+        ],
+        [
+          "CHI/Weidong",
+          "#00008B"
+        ],
+        [
+          "CHI/Xian",
+          "#800020"
+        ],
+        [
+          "CHI/Xuchang",
+          "#00008B"
+        ],
+        [
+          "CHI/Zhejiang",
+          "#008080"
+        ],
+        [
+          "CHI/Zhoushan",
+          "#008080"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "Region",
+      "menuItem": "region",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "region",
+    "geoResolution": "region",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "region"
+  ],
+  "geo": {
+    "country": {
+      "CHI": {
+        "latitude": 36.222346,
+        "longitude": 103.285016
+      }
+    },
+    "region": {
+      "CHI/Beijing": {
+        "latitude": 39.914372,
+        "longitude": 116.400063
+      },
+      "CHI/Chengdu": {
+        "latitude": 30.591154,
+        "longitude": 104.069889
+      },
+      "CHI/FuZhou": {
+        "latitude": 26.083198,
+        "longitude": 119.303241
+      },
+      "CHI/Guangdong": {
+        "latitude": 23.780378,
+        "longitude": 114.858138
+      },
+      "CHI/Guangzhou": {
+        "latitude": 23.273126,
+        "longitude": 113.315005
+      },
+      "CHI/Hangzhou": {
+        "latitude": 30.27918,
+        "longitude": 120.212924
+      },
+      "CHI/Hubei": {
+        "latitude": 31.139346,
+        "longitude": 112.020631
+      },
+      "CHI/Inner_Mongolia": {
+        "latitude": 43.016428,
+        "longitude": 114.672235
+      },
+      "CHI/Jiangsu": {
+        "latitude": 32.786865,
+        "longitude": 120.013486
+      },
+      "CHI/Jiangyin": {
+        "latitude": 31.918278,
+        "longitude": 120.286738
+      },
+      "CHI/Liaoning": {
+        "latitude": 41.117539,
+        "longitude": 124.286903
+      },
+      "CHI/Lishui": {
+        "latitude": 28.472301,
+        "longitude": 119.921895
+      },
+      "CHI/Nanchang": {
+        "latitude": 28.672207,
+        "longitude": 115.864516
+      },
+      "CHI/Nanjing": {
+        "latitude": 32.0608,
+        "longitude": 118.814473
+      },
+      "CHI/Qingdao": {
+        "latitude": 36.06153,
+        "longitude": 120.372905
+      },
+      "CHI/Qingfeng": {
+        "latitude": 35.881414,
+        "longitude": 115.114397
+      },
+      "CHI/Ruyang": {
+        "latitude": 34.157958,
+        "longitude": 112.477099
+      },
+      "CHI/Shangdong": {
+        "latitude": 35.95963,
+        "longitude": 118.868593
+      },
+      "CHI/Shanghai": {
+        "latitude": 31.393141,
+        "longitude": 121.476012
+      },
+      "CHI/Shenzen": {
+        "latitude": 22.544043,
+        "longitude": 114.015228
+      },
+      "CHI/Sichuan": {
+        "latitude": 30.364712,
+        "longitude": 102.451195
+      },
+      "CHI/Taizhou": {
+        "latitude": 28.667388,
+        "longitude": 121.427726
+      },
+      "CHI/Tianjinjinnan": {
+        "latitude": 38.941969,
+        "longitude": 117.360703
+      },
+      "CHI/Tianjintanggu": {
+        "latitude": 39.005468,
+        "longitude": 117.709553
+      },
+      "CHI/Weidong": {
+        "latitude": 33.737717,
+        "longitude": 113.334123
+      },
+      "CHI/Xian": {
+        "latitude": 34.332984,
+        "longitude": 108.931327
+      },
+      "CHI/Xuchang": {
+        "latitude": 34.02263,
+        "longitude": 113.84761
+      },
+      "CHI/Zhejiang": {
+        "latitude": 29.054321,
+        "longitude": 120.299869
+      },
+      "CHI/Zhoushan": {
+        "latitude": 29.990807,
+        "longitude": 122.204693
+      }
+    }
+  },
+  "maintainer": [
+    "Duane Barksdale",
+    "https://github.com/dbarksdale/H1N1Chi"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "2009 H1N1 Spread in China",
+  "updated": "05 Mar 2020",
+  "virus_count": 94
+}
